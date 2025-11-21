@@ -4,6 +4,7 @@ Comprehensive Scientific Methodology for Interstellar Object Analysis
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17596911.svg)](https://doi.org/10.5281/zenodo.17596911)
 [![Website](https://img.shields.io/badge/Website-thibequation.com-blue)](https://thibequation.com)
 [![License](https://img.shields.io/badge/License-Thibodeau_Innovations_Framework_1.0-orange)](LICENSE)
+[![ORCID](https://orcid.org/0009-0005-7447-7703)
 
 ## Overview
 
